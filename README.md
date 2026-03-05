@@ -1,6 +1,6 @@
-📊 Challenge Telecom X LATAM – Análisis de Cancelación de Clientes (Churn)
-📌 Descripción del Proyecto
+📊 Challenge Telecom X LATAM – Análisis de Cancelación de Clientes (Churn).
 
+📌 Descripción del Proyecto
 Análisis de datos realizado sobre la base de clientes de Telecom X LATAM con el objetivo de identificar los principales factores que influyen en la cancelación del servicio (churn) y generar recomendaciones estratégicas para mejorar la retención.
 
 Se evaluaron variables como tipo de contrato, antigüedad del cliente, cargos mensuales, servicios adicionales contratados y comportamiento general de los usuarios.
